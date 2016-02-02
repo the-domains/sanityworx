@@ -1,6 +1,6 @@
 name: SanITyWorx
 favicon: null
-layout_spectrum: 0.912753012496978
+layout_spectrum: 0.49489
 typography_spectrum: 0.8298600723501295
 title: SanITyWorx
 cta:
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.08970731357112527
+  brandStrength: 0.5
   lightness: 0.43681591912172735
   saturation: 0.9154452276416123
   rhythmicContrast: 0.8799920023884624
